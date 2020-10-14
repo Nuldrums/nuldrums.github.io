@@ -1,6 +1,6 @@
 # Site settings
 title: "Carte Noire"
-email: jacob@jacobtomlinson.co.uk
+email: troy@nuldrums.com
 description: "A dark blog theme for Jekyll."
 baseurl: ""
 url: "http://carte-noire.jacobtomlinson.co.uk/"
@@ -8,18 +8,15 @@ title_description: "A dark blog theme for Jekyll focusing on a clear reading exp
 title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
 google_analytics: "UA-20365477-4"
 disqus_account: cartenoire
-github_repository: https://github.com/jacobtomlinson/carte-noire
+github_repository: https://github.com/Nuldrums/nuldrums.github.io
 addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
 
 # Social usernames/URLs
 twitter_username: _jacobtomlinson
 github_username:  jacobtomlinson
-instagram_username: 
+instagram_username: trikeri_
 reddit_username: 
-linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
-google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
-stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
 xing_link:
 facebook_link:
 

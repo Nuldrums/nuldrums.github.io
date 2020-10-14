@@ -84,6 +84,17 @@ a:hover {color:#09F;}
 			flex-basis: 100%;
 		}
 
+		@media only screen and (max-width: 400px) {
+
+			.wrapper2 {
+				font-size : 38px;
+			}
+			.wrapper2 img {
+				width: 43px;
+				padding-left: 15px;
+			}
+		}
+
 canvas {
     padding-left: 0;
     padding-right: 0;
